@@ -18,12 +18,12 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:support@mindpal.io"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://beta.getmindpal.com"
   },
   "tabs": [
     {
@@ -39,14 +39,9 @@
     },
     {
       "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "icon": "Facebook",
+      "url": "https://www.facebook.com/groups/mindpalhub"
     },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
-    }
   ],
   "navigation": [
     {
@@ -58,14 +53,14 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Agent",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "Agent/agent",
+        "Agent/knowledge-source",
+        "Agent/brand-voice",
+        "Agent/tool",
+        "Agent/chatbot",
+        "Agent/best-practice"
       ]
     },
     {
@@ -84,8 +79,7 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://linkedin.com/company/mintlify"
+    "x": "https://x.com/mindpal_ai",
+    "linkedin": "https://www.linkedin.com/company/mindpal-space"
   }
 }
